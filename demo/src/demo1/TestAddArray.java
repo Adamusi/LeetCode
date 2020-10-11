@@ -17,7 +17,7 @@ public class TestAddArray {
 		int[] arr = new int[] {9,8,7};
 		//快速查看数组中的元素
 		System.out.println(Arrays.toString(arr));
-		//要加u人数组的目标元素
+		//要加入数组的目标元素
 		int dst=6;
 		
 		//创建一个新的数组，长度是原数组长度+1
