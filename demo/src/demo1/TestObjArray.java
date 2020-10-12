@@ -3,7 +3,7 @@ package demo1;
 import demo1.util.MyArray;
 
 /**
- * @author 张自强
+ * @author zzq
  * @date 2020-10-12 21:21:07
  * @version 1.0
  * @parameter 

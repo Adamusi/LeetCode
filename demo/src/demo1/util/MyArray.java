@@ -3,7 +3,7 @@ package demo1.util;
 import java.util.Arrays;
 
 /**
- * @author 张自强
+ * @author zzq
  * @date 2020-10-12 21:28:40
  * @version 1.0
  * @parameter
