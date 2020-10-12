@@ -62,7 +62,7 @@ public class MyArray {
 				newArr[i] = elements[i + 1];
 			}
 		}
-		// 新数组替换旧数组
+		// 新数组替换旧的数组
 		elements = newArr;
 	}
 
