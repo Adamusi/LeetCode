@@ -6,7 +6,9 @@ import java.util.Map;
 /**
  * @author zzq
  * @date 2020-10-9 21:23:09
- */
+       哈希查找
+  */
+ 
 
 public class TwoSum_01 {
 
@@ -20,9 +22,7 @@ public class TwoSum_01 {
 		System.out.println(r[1]);
 	}
 
-	/**
-	 *   哈希查找
-	 */
+	
 	private static int[] twoSum(int[] nums, int target) {
 		Map<Integer, Integer> map = new HashMap<>();
 		for (int i = 0; i < nums.length; i++) {
